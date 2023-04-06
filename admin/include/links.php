@@ -2,6 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&family=Merriweather:ital@0;1&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
 <link rel="stylesheet" href="CSS\common.css">
+<link rel="icon" href="..\Images\favicon.ico" type="image/x-icon">
 
 <?php
 
